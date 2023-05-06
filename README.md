@@ -6,4 +6,4 @@ Dashboard 1: https://public.tableau.com/shared/FGPC67GQJ?:display_count=n&:origi
 
 Dashboard 2: https://public.tableau.com/views/CovidDashboard2_16832690466000/Dashboard2?:language=en-US&:display_count=n&:origin=viz_share_link
 
-The dataset used was obtained from https://ourworldindata.org/covid-deaths and project outline is as done in Alex the Analyst's Data Analyst Portfolio Project Parts 1 and 2 which are featured on his Youtube Channel https://www.youtube.com/@AlexTheAnalyst. Highly recommend giving the channel a subscribe especially if you are an aspiring Data Analyst or an experienced Data Analyst at any level.
+The dataset used was obtained from https://ourworldindata.org/covid-deaths and the project outline is as demonstrated in Alex the Analyst's Data Analyst Portfolio Project Parts 1 and 2 which are featured on his Youtube Channel https://www.youtube.com/@AlexTheAnalyst. Highly recommend giving the channel a subscribe especially if you are an aspiring Data Analyst or an experienced Data Analyst at any level.
