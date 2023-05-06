@@ -1,6 +1,6 @@
 # COVID-19-SQL_Data_Analysis
 
-This project is a data analysis of Covid-19 deaths and vaccination data from 03/01/2020 to 04/05/2023, using SQL. The main chunk of the project was completed using BigQuery to run SQL statements and then Tableau was used to create vivid dashboards for visualization. 
+This project is a data analysis of Covid-19 deaths and vaccination data from 03/01/2020 to 04/05/2023, using SQL. The main chunk of the project was completed using BigQuery to run SQL statements and then Tableau was used to create vivid dashboards for visualization purposes: 
 
 Dashboard 1: https://public.tableau.com/shared/FGPC67GQJ?:display_count=n&:origin=viz_share_link
 
